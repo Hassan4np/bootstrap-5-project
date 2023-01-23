@@ -1,0 +1,408 @@
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: initial !important;
+    }
+    
+    .nav-link {
+        font-family: initial;
+        font-style: normal;
+        font-weight: 660;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: -0.1px;
+        color: black;
+        margin-left: 20px;
+    }
+    
+    .signup {
+        font-size: 14px;
+        font-weight: 660;
+        font-style: normal;
+        line-height: 21px;
+        letter-spacing: -0.1px;
+        color: #9A9EA7;
+    }
+    
+    .signup img {
+        background-color: #F5F6F7;
+        border-radius: 10px;
+        width: 30px;
+        height: 25px;
+        padding: 5px 8px;
+        margin-right: 5px;
+    }
+    
+    .section1 {
+        background-image: url(../img/Rectangle.png);
+        width: 100%;
+        height: 615px;
+    }
+    
+    .section1 h1 {
+        font-size: 60px;
+        font-weight: 500;
+        font-style: normal;
+        line-height: 30px;
+        letter-spacing: -0.1px;
+        color: white;
+        text-align: center;
+        padding-top: 100px;
+    }
+    
+    .section1p {
+        font-size: 20px;
+        font-weight: 700;
+        font-style: normal;
+        line-height: 27px;
+        letter-spacing: -0.1px;
+        color: #FFFFFf;
+        text-align: center;
+        padding-top: 10px;
+    }
+    
+    .TopFooterSection {
+        background-color: #ffffff;
+        box-shadow: 0px 3x 4px rgba(153, 155, 168, 0.15);
+        border-radius: 8px;
+        max-width: 945px;
+        height: 80px;
+        position: absolute;
+        margin: 0 auto;
+        bottom: -53px;
+        left: 50%;
+        z-index: 99;
+        width: 98%;
+        transform: translateX(-50%);
+    }
+    
+    .TopFooterSection p {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 19px;
+        margin-left: 30px;
+        margin-top: 10px;
+        letter-spacing: -0.1px;
+        color: rebeccapurple;
+    }
+    
+    .form-select {
+        color: blueviolet;
+        font-weight: 500;
+        font-style: normal;
+        line-height: 30px;
+        border: none !important;
+        margin-top: -20px;
+    }
+    
+    .withoutp {
+        margin-top: 27px;
+    }
+    
+    .hradarbutton {
+        padding: 10px 10px;
+    }
+    
+    .section2 {
+        margin-top: 232px;
+        margin-bottom: 50px;
+    }
+    
+    .section3 h5 {
+        font-size: normal;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 27px;
+        margin-top: 10px;
+        color: #0D0A19;
+    }
+    
+    .section3 P {
+        font-size: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 21px;
+        color: #9A9EA7;
+    }
+    
+    .button1,
+    .button2 {
+        background-color: gray;
+        border-radius: 4px !important;
+        font-weight: 500 !important;
+        font-style: normal;
+        font-size: 14px;
+        line-height: 21px !important;
+        text-align: center;
+        margin-bottom: 5px;
+    }
+    
+    .card {
+        border: none;
+    }
+    
+    .FindcarHeader {
+        width: 98%;
+        height: 60px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 20xp;
+        margin: 60px;
+    }
+    
+    .section4 {
+        margin-top: 100PX;
+        margin-bottom: 100px;
+    }
+    
+    .FindCar {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 28px;
+        line-height: 36px;
+        letter-spacing: -0.1px;
+        color: #0D0A19;
+    }
+    
+    .ArrowArea {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: right;
+        color: #9A9EA7;
+        margin-top: 20px;
+    }
+    
+    header p span {
+        margin: 0px 6px;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .ArrowArea img {
+        background: #F5F6F7;
+        border-radius: 10px;
+        padding: 10px;
+        ;
+    }
+    
+    .product {
+        min-width: 24%;
+        margin: 0px 20px 50px 0px;
+        position: relative;
+        left: 0;
+        transition: 0.5s;
+    }
+    
+    .sedan {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        color: #0D0A19;
+    }
+    
+    .proBTN {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 18px;
+        color: black;
+        text-align: center;
+        background-color: gray;
+        border-radius: 8px;
+    }
+    
+    .proBTN1 {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 18px;
+        color: black;
+        text-align: center;
+        border-radius: 8px;
+        background: #F5F6F7;
+    }
+    
+    .btn-find {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 21px;
+        text-align: center;
+        color: #9A9EA7;
+        margin-top: 20px;
+        letter-spacing: -0.1px;
+    }
+    
+    .active {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 21px;
+        text-align: center;
+        color: #0d0A19;
+        background: #FFFFFF;
+        letter-spacing: -0.1px;
+        border: 1px solid #EEEEEE;
+        border-radius: 8px;
+        padding: 0px 25px;
+    }
+    
+    .section5 h3 {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 28px;
+        line-height: 36px;
+        letter-spacing: -0.1px;
+        color: #0D0A19;
+    }
+    
+    .finditem img {
+        width: 30px;
+        height: 30px;
+    }
+    
+    .finddet .subaru {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 27px;
+        letter-spacing: -0.1px;
+        color: #0D0A19;
+    }
+    
+    .num {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 21px;
+        letter-spacing: -0.1px;
+        color: #9A9EA7;
+        margin-top: -20px;
+    }
+    
+    .finddet {
+        margin-left: 15px;
+    }
+    
+    .finditem {
+        margin-top: 25px;
+    }
+    
+    .popularp {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 27px;
+        letter-spacing: -0.1px;
+        color: #0D0A19;
+    }
+    
+    .finddet1 {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .num1 {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 21px;
+        letter-spacing: -0.1px;
+        color: #9A9EA7;
+        margin-top: 5px;
+    }
+    
+    .col-lg-3 {
+        margin-top: 40px;
+    }
+    
+    .section6 .subaru2 {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 27px;
+        letter-spacing: -0.1px;
+        color: #0D0A19;
+    }
+    
+    .num2 {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 21px;
+        letter-spacing: -0.1px;
+        color: #9A9EA7;
+        margin-top: 5px;
+    }
+    
+    footer .subaru3 {
+        font-style: normal;
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 20px;
+        letter-spacing: -0.1px;
+        color: #0D0A19;
+    }
+    
+    footer .num3 {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 21px;
+        letter-spacing: -0.1px;
+        color: #9A9EA7;
+    }
+    
+    footer .select {
+        text-align: right;
+        color: black;
+    }
+    
+    footer .select1 {
+        border: 2px solid red;
+        color: black;
+    }
+    
+    footer img {
+        margin-top: -22px;
+    }
+    
+    @media all and (max-width: 767px) {
+        .section1 h1 {
+            font-size: 32px;
+        }
+        .section1p {
+            font-size: 17px;
+        }
+        .TopFooterSection {
+            height: 100px;
+        }
+        .hradarbutton {
+            cursor: pointer;
+            width: 95%;
+            text-align: center;
+            border-radius: 8px;
+            border: 2px solid;
+            margin-left: 7px;
+            padding: 10px 3px;
+        }
+        .section2 img {
+            margin-top: 20px;
+        }
+        .section2 .imgimg {
+            margin-top: 50px;
+        }
+        .product {
+            min-width: 50%;
+            margin-right: 20px;
+        }
+        .FindcarHeader {
+            margin-left: 15px;
+        }
+    }
